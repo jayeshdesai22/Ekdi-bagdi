@@ -1,0 +1,24 @@
+.btn1{
+    height: 90px;
+    width: 95px;
+    margin-top: 50px;
+    margin-left: 2px;
+    padding-right: 12px;
+    background-color: rgb(250, 184, 19);
+    align-items: center;
+}
+.pressed{
+    visibility: hidden;
+}
+h1{
+    text-align: center;
+    padding-top: 100px;
+    color:chartreuse ;
+}
+div{
+    background-color: #28282b;
+    padding-bottom: 120px;
+}
+.danger{
+    background-color: #FFEBB7;
+}
