@@ -7,6 +7,15 @@
     background-color: rgb(250, 184, 19);
     align-items: center;
 }
+
+.btn-primary{
+    margin: 40px auto;
+    margin-bottom: 30px;
+    margin-left: 46%;
+   
+    height: 100px;
+    width: 100px;
+}
 .pressed{
     visibility: hidden;
 }
@@ -17,7 +26,7 @@ h1{
 }
 div{
     background-color: #28282b;
-    padding-bottom: 120px;
+    padding-bottom: 10px;
 }
 .danger{
     background-color: #FFEBB7;
